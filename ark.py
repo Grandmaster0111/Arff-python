@@ -44,5 +44,5 @@ lo(n2)
 lo(n3)
 savfil(name,n0,n1,n2,n3,n4,n5)
 for i in range(10):
-    print(no(n1,n2,n3,n4,n5))
+    no(n1,n2,n3,n4,n5)
 
